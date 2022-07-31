@@ -20,7 +20,7 @@ This implementation is loosely based on the:
 - Object-Oriented Programming (OOP) implementation
   ["SparseMatrixRecommender"](https://pypi.org/project/SparseMatrixRecommender/), [AAp3], in Python
 
-This implementation close follows the:
+This implementation closely follows the:
 
 - OOP implementation  ["ML-SparseMatrixRecommender"](https://github.com/antononcube/Raku-ML-StreamsBlendingRecommender), [AAp4], in Raku
 
